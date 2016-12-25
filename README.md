@@ -1,4 +1,4 @@
 # bash-scripts
-Useful bash scripts I've created for OS X and Linux. 
+Here are some useful and some crappy (if you're a pro) bash scripts I've created for OS X and Linux while in the process of teaching myself shell scripting.
 
-I will improve upon these scripts as time goes by. I'm still learning. Don't judge.
+I will improve upon them as time goes by. I'm still learning. Don't judge.
